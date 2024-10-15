@@ -3,7 +3,7 @@
 :root { 
   --bg-color: #7299d4; 
   --primary-color: #DDDDDD; 
-  --secondary-color: #54bbb6; 
+  --secondary-color: #53817e; 
 }
 body { 
     background-color: var(--bg-color);
